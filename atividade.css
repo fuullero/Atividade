@@ -1504,7 +1504,7 @@ a.link.ativo e,a.link.ativo :hover,a.link.ativo:focus {
     z-index: 2;
     color: #fff;
     background-color: #428bca;
-    border-color: #427bca
+    border-color: #428bca
 }
 
 a.link.ativo .link-heading,a.link.ativo:hover .link-heading,a.link.ativo:focus .link-heading {
